@@ -35,3 +35,6 @@ What this project accomplishes:	goals
 
 ## references
 - https://www.gharchive.org/
+- stackoverflow
+- github
+- libraries.io
